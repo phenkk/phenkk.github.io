@@ -2,4 +2,4 @@
 
 Coba intip [disini](https://phenkk.github.io/)
 
-![alt text](https://github.com/phenkk/phenkk.github.io/blob/master/preview.jpg "SA PU WEB")
+![alt text](https://github.com/phenkk/phenkk.github.io/blob/master/preview.png "SA PU WEB")
